@@ -4,5 +4,5 @@
 ### top 7 percent rank.  
 ### For details on the competition <https://www.kaggle.com/c/house-prices-advanced-regression-techniques>  
 
-        ![Leaderboard](Top-7-percent---Housing-Prices-Competition---Kaggle/Leaderboard.jpg)
+        ![Leaderboard](https://github.com/monkeysforever/Top-7-percent---Housing-Prices-Competition---Kaggle/Leaderboard.jpg)
       
